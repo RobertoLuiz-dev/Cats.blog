@@ -9,7 +9,7 @@ Blog dos gatos | animações, transições e redirecionamento externo
 
 ...
 
-![image](https://github.com/user-attachments/assets/ce70d8ba-abe7-4099-9590-2099f83f6f6a)
+![image](https://github.com/user-attachments/assets/f2f5f8e4-f439-4fdd-baf0-18fb47dade34)
 
 ![image](https://github.com/user-attachments/assets/a814e648-f2f0-4bbf-ab90-7bf6fb2ac2bc)
 
