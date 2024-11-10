@@ -1,4 +1,4 @@
-Blog dos gatos | animações, transições e redirecionamento externo
+Cats Blog | animations, transitions and external redirection.
 
 ![image](https://github.com/user-attachments/assets/3479a87e-9a41-4a89-bc35-abd8a2bc3f37)
 ![image](https://github.com/user-attachments/assets/57753bb4-4ad5-4ad8-a441-a238368dda77)
